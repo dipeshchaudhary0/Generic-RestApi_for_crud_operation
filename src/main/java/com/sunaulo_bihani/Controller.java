@@ -12,4 +12,8 @@ public class Controller {
     public String message(){
         return "Hello World";
     }
+    @GetMapping("/message1")
+    public String message1(){
+        return "Hello World1";
+    }
 }
