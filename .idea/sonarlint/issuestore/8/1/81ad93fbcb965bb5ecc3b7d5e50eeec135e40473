@@ -1,0 +1,8 @@
+
+Š	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(©¦é?8¡š‚Ýÿ1J$531fe8eb-5ad2-4c75-9c69-2a96fc81e05a
+™
+java:S1128"QRemove this unused import 'org.springframework.context.annotation.Configuration'.(¬²Úäþÿÿÿÿ8¢š‚Ýÿ1J$1e2f760e-acc5-4038-bf3e-2ac0e93b4a94
+“
+java:S1128"KRemove this unused import 'org.springframework.data.repository.Repository'.(ëóÔ»ùÿÿÿÿ8£š‚Ýÿ1J$8683d7ff-e6e3-49d2-b427-c2bf371ccd53
+w
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëÝüÿÿÿÿ8£š‚Ýÿ1J$f121802f-3e76-4620-8e96-11a12264d377

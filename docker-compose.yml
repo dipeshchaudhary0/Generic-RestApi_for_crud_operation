@@ -1,11 +1,23 @@
 version: '2'
 services:
-  jenkins:
-    image: jenkins/jenkins
+  db:
+    image: postgres:13
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+      - POSTGRES_DB=test
     ports:
-      - 8080:8080
-    networks:
-      - spring-cloud-network
+      - "5432:5432"
+    volumes:
+      - ./pgdata:/var/lib/postgresql/data
+
+#  jenkins:
+#    image: jenkins/jenkins
+#    ports:
+#      - 8080:8080
+#    networks:
+#      - spring-cloud-network
 networks:
   spring-cloud-network:
     driver: bridge
+
