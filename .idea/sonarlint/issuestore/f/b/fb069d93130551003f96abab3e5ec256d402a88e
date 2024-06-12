@@ -1,13 +1,13 @@
 
 …
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8©Í°á€2J$2203a91a-b2a2-41c8-9032-8e151f83916f
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8©Í°á€2J$22077e40-4505-4f3a-9624-6ddf493505f5
 …
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8˜„±á€2J$15731c65-ab35-4f75-9af1-84f99685653e
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8˜„±á€2J$44471d98-de06-4ffb-82f4-086a49aee87c
 –
-java:S6201'"NReplace this instanceof check and cast with 'instanceof BaseEntity baseEntity'(Ü²´ëýÿÿÿÿ8÷„Õá€2J$41d15080-94dd-407b-95cc-044c0048dc18
+java:S6201'"NReplace this instanceof check and cast with 'instanceof BaseEntity baseEntity'(Ü²´ëýÿÿÿÿ8÷„Õá€2J$247a9444-bea3-44d2-9310-a4437fdcdd83
 “
-java:S2133,"KRemove this object instantiation and use "GenericController.class" instead.(Þ±Ä ûÿÿÿÿ8Ë×Ìá€2J$3197fd29-d8e3-42f4-8363-4a139f3a2ff8
+java:S2133,"KRemove this object instantiation and use "GenericController.class" instead.(Þ±Ä ûÿÿÿÿ8Ë×Ìá€2J$b02e3c42-080b-4e6a-9e70-91a3ce51d3a2
 ˆ
-java:S1128"ERemove this unused import 'com.sunaulo_bihani.service.CommonService'.(ÕÀ°õ8€ñØá€2J$5b83b9d5-64ca-4395-8d31-7abb5fa34cc4
+java:S1128"ERemove this unused import 'com.sunaulo_bihani.service.CommonService'.(ÕÀ°õ8€ñØá€2J$0a71c780-175c-4de2-868b-5c6c070a477f
 ™
-java:S1128"WRemove this unused import 'org.springframework.beans.factory.config.BeanPostProcessor'.(âŠÍr8ê§Ùá€2J$f34a8a1e-ca32-4871-a45b-91b4d9fb5a86
+java:S1128"WRemove this unused import 'org.springframework.beans.factory.config.BeanPostProcessor'.(âŠÍr8ê§Ùá€2J$1778b101-b5d3-42fc-bf98-3a901d73c060
