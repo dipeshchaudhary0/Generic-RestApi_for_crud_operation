@@ -1,13 +1,8 @@
 package com.sunaulo_bihani.service;
 
-import org.springframework.stereotype.Service;
 
-import java.util.List;
+import com.sunaulo_bihani.model.BaseEntity;
 
-
-@Service
-public interface CommonService<E,K> {
-    E save(E entity);
-    E findById(K id);
-    List<E> findAll();
+public interface CommonService<E extends BaseEntity> {
+    void save(E entity);
 }

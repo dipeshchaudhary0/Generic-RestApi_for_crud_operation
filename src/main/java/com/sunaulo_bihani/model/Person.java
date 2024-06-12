@@ -1,24 +1,14 @@
 package com.sunaulo_bihani.model;
 
 import jakarta.persistence.*;
-import lombok.AllArgsConstructor;
-import lombok.Getter;
-import lombok.NoArgsConstructor;
-import lombok.Setter;
+import lombok.*;
 
-@Getter
-@Setter
-@AllArgsConstructor
-@NoArgsConstructor
+@EqualsAndHashCode(callSuper = true)
+@Data
 @Entity
 @Table(name = "person")
-public class Person {
-
-    @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long id;
-
-    private String name;
+@EnableGenericController(path = "/person")
+public class Person extends BaseEntity{
     private int age;
     private String email;
 }

@@ -1,11 +1,12 @@
 package com.sunaulo_bihani.repository;
 
 
+import com.sunaulo_bihani.model.BaseEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
-import org.springframework.data.repository.NoRepositoryBean;
+import org.springframework.stereotype.Repository;
 
 
 
-@NoRepositoryBean
-public interface GeneralJpaRepository<E,K> extends JpaRepository<E,K> {
+@Repository
+public interface GeneralJpaRepository<E extends BaseEntity> extends JpaRepository<E,Long> {
 }

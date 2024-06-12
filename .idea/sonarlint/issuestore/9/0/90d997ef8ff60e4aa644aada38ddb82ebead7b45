@@ -1,0 +1,14 @@
+
+ˆ	java:S1127"FDefine and throw a dedicated exception instead of using a generic one.(úë¦Í8ÓŞÄà€2J$f8c16b77-82ae-49d2-bf16-215d541da919
+r
+java:S3740"/Provide the parametrized type for this generic.(ò·8ÓŞÄà€2J$302104ac-5a72-46d9-b9f1-6d881e237fb0
+w
+java:S3740;"/Provide the parametrized type for this generic.(ıåƒˆøÿÿÿÿ8ÓŞÄà€2J$f0c854bd-3d10-4d64-a127-e4a1ef94e0e7
+t
+java:S1172:"1Remove this unused method parameter "modelClass".(˜šÛ‹8ÚŞÄà€2J$cb5a37b7-7ae4-4af8-999c-4b446f12b7dc
+“
+java:S2133;"KRemove this object instantiation and use "GenericController.class" instead.(ıåƒˆøÿÿÿÿ8ÚŞÄà€2J$e8e4cfbd-5e1b-4983-922a-47ea9af30828
+š
+java:S1128"RRemove this unused import 'org.springframework.web.bind.annotation.RequestMethod'.(Ê™Ğÿûÿÿÿÿ8 ×Åà€2J$89f525f3-eee2-4492-8560-d6ec33788fd3
+w
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8 ×Åà€2J$1385662d-c626-4a0c-8c94-948620bafa31
