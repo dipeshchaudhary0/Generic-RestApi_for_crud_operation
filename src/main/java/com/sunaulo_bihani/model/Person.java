@@ -3,7 +3,7 @@ package com.sunaulo_bihani.model;
 import jakarta.persistence.*;
 import lombok.*;
 
-@EqualsAndHashCode(callSuper = true)
+
 @Data
 @Entity
 @Table(name = "person")

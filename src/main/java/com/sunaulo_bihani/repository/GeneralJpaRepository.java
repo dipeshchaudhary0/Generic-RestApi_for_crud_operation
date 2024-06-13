@@ -8,5 +8,5 @@ import org.springframework.stereotype.Repository;
 
 
 @Repository
-public interface GeneralJpaRepository<E extends BaseEntity> extends JpaRepository<E,Long> {
+public interface GeneralJpaRepository<E extends BaseEntity> extends JpaRepository<E, Long> {
 }

@@ -6,8 +6,8 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.Map;
 
-@RestController
-public  class GenericController<E extends BaseEntity> {
+
+public class GenericController<E extends BaseEntity> {
 
     private final CommonService<E> service;
 
@@ -18,7 +18,6 @@ public  class GenericController<E extends BaseEntity> {
     @PostMapping
     public Map<String, String> save(@RequestBody E entity) {
         service.save(entity);
-        return Map.of("success","success");
+        return Map.of("success", "success");
     }
-
 }

@@ -33,3 +33,9 @@ r
 Bsrc/main/java/com/sunaulo_bihani/GenericControllerInitializer.java,f\b\fb069d93130551003f96abab3e5ec256d402a88e
 s
 Csrc/main/java/com/sunaulo_bihani/model/EnableGenericController.java,a\e\ae31414fef682dcded02660a81699127dffcfcef
+ƒ
+Ssrc/main/java/com/sunaulo_bihani/controller/GenericControllerBeanPostProcessor.java,d\9\d915f70624948d378e046b2e5ca718dff4297784
+}
+Msrc/main/java/com/sunaulo_bihani/controller/GenericControllerInitializer.java,e\c\eca468d867c412bce0f826a9a24079f8d64943bb
+E
+.vscode/settings.json,8\9\89aa447020cdcb580cea0495694d46a55941edbe

@@ -1,5 +1,4 @@
 com\sunaulo_bihani\model\BaseEntity.class
-com\sunaulo_bihani\controller\ProductController.class
 com\sunaulo_bihani\dto\ResponseDto.class
 com\sunaulo_bihani\controller\GenericController.class
 com\sunaulo_bihani\SunauloBihaniApplication.class
@@ -7,7 +6,9 @@ com\sunaulo_bihani\dto\ResponseDto$ResponseDtoBuilder.class
 com\sunaulo_bihani\model\Person.class
 com\sunaulo_bihani\service\impl\CommonServiceImpl.class
 com\sunaulo_bihani\controller\PersonController.class
-com\sunaulo_bihani\repository\PersonRepository.class
-com\sunaulo_bihani\controller\SunauloBihaniController.class
+com\sunaulo_bihani\controller\GenericControllerBeanPostProcessor.class
+com\sunaulo_bihani\model\Product.class
+com\sunaulo_bihani\GenericControllerInitializer.class
 com\sunaulo_bihani\service\CommonService.class
+com\sunaulo_bihani\model\EnableGenericController.class
 com\sunaulo_bihani\repository\GeneralJpaRepository.class
